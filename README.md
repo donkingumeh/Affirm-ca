@@ -1,0 +1,2 @@
+# Affirm-ca
+ssot queries
